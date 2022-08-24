@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/agrawalanuj18/React-Weather-Display", 
+  "homepage": "https://agrawalanuj18.github.io/React-Weather-Display/", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
